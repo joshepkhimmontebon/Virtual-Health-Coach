@@ -60,6 +60,8 @@ MySQL Schema (user_db)
 3. symptoms - User symptom tracking and history
 4. doctors_advice - Doctor recommendations and medical advice
 
+Databade Table Diagrams
+
 <img width="1024" height="1536" alt="ERD FINAL" src="https://github.com/user-attachments/assets/c138291b-6c9e-43d8-a727-eaac4b44e9e8" />
 
 
